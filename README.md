@@ -1,7 +1,7 @@
 # 
 # <h>  **InstaHyre Job Analysis with Web Scrapping, Python, SQL and MS Excel**
 
-**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan.**
+**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas) and Power Query (MS Excel), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan.**
 
 
 
@@ -58,8 +58,8 @@
 
     1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
     
-    2. Did the Data cleaning part with the help of Pandas and imported the CSVs into MySQL for further analysis.
-    
+    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
+ 
     3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
     
     4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
