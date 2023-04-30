@@ -95,6 +95,27 @@
    7. Work From Home is surprisingly the 3rd highest segment in the location with highest number of jobs, indicating the increasing preference of the companies for WFH post pandemic period as it reduces the requirement of Infrastructure for the company, cost of operations and also remains employee friendly.
    
    8. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in it are creating the highest number of employment in India.
+   <br>
+   
+   
+   ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+   
+   <B> The aim of the Project is to: </B>
+   
+   1. Assist the people in finding the most suitable jobs based on their eligibilities and preferences. 
+   
+   2. Help the migratory work force in finding out the most suitable locations for their respective work fields.
+   
+   3. To provide an idea of the employement situation in the country.
+   
+   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure employment.
+   
+   5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
+   
+   6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
+   
+   
+   
     
 
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
