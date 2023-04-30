@@ -84,17 +84,15 @@
    
    2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
    
-   3. Developed regions have increased their electricity production through nuclear sources whereas some developing regions have gradually started increasing their foothold in nuclear power generation while some regions have been unable to do so.
+   3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
    
-   4. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
+   4. Programming languages like Python, Java and Java script are the most in demand skills.
    
-   5. Programming languages like Python, Java and Java script are the most in demand skills.
+   5. Bangalore and Mumbai are the Cities with highest number of job openings.
    
-   6. Bangalore and Mumbai are the Cities with highest number of job openings.
+   6. Work From Home is surprisingly the 3rd highest segment in the location with highest number of jobs, indicating the increasing preference of the companies for WFH post pandemic period as it reduces the requirement of Infrastructure for the company, cost of operations and also remains employee friendly.
    
-   7. Work From Home is surprisingly the 3rd highest segment in the location with highest number of jobs, indicating the increasing preference of the companies for WFH post pandemic period as it reduces the requirement of Infrastructure for the company, cost of operations and also remains employee friendly.
-   
-   8. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in it are creating the highest number of employment in India.
+   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in it are creating the highest number of employment in India.
    <br>
    
    
