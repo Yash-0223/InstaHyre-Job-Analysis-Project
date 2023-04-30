@@ -27,7 +27,7 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the relation between the number of Job Openings and the Size of the companies.
+    o       Analysed the relationship between the number of Job Openings and the Size of the companies.
     
     o	Explored the trends for the different job profiles and the number of job openings available for them.
      
