@@ -86,7 +86,7 @@
    
    3. Developed regions have increased their electricity production through nuclear sources whereas some developing regions have gradually started increasing their foothold in nuclear power generation while some regions have been unable to do so.
    
-   4. Freshers (0-3 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (6-10 years of Experience) and Intermediate (between 4-5 years of Experience) are the highest in demand segment of the job seekers.
+   4. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
    
    5. Programming languages like Python, Java and Java script are the most in demand skills.
    
