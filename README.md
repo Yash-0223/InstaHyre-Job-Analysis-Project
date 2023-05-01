@@ -90,9 +90,9 @@
    
    5. Bangalore and Mumbai are the Cities with highest number of job openings.
    
-   6. Work From Home is surprisingly the 3rd highest segment in the location with highest number of jobs, indicating the increasing preference of the companies for WFH post pandemic period as it reduces the requirement of Infrastructure for the company, cost of operations and also remains employee friendly.
+   6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
    
-   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in it are creating the highest number of employment in India.
+   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
    
    
