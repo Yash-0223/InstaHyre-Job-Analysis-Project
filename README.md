@@ -19,7 +19,7 @@
 | **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
 | **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
 | **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This folder provides the raw data for the analysis .  |
+| **DATATA.xlsx**  | This file provides the raw data for the analysis .  |
 | **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
 <br>
 
